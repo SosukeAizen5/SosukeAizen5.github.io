@@ -18,8 +18,7 @@ Food Nutrition Dataset 3 can be examined [here](https://github.com/SosukeAizen5/
 
 Food Nutrition Dataset 4 can be examined [here](https://github.com/SosukeAizen5/Portfolio/blob/main/DSC%20680%20Applied%20Data%20Science/FOOD-DATA-GROUP4.csv).
 
-Food Nutrition Dataset 5 can be examined [here]
-(https://github.com/SosukeAizen5/Portfolio/blob/main/DSC%20680%20Applied%20Data%20Science/FOOD-DATA-GROUP5.csv).
+Food Nutrition Dataset 5 can be examined [here](https://github.com/SosukeAizen5/Portfolio/blob/main/DSC%20680%20Applied%20Data%20Science/FOOD-DATA-GROUP5.csv).
 
 ### Project Code
 The Python code used for the analysis is available [here](https://github.com/SosukeAizen5/Portfolio/blob/main/Portfolio/Predicting%20Nutrition%20Density%20Code.ipynb).
