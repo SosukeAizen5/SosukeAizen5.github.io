@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neural Network Image Classifier"
-date: 2024-10-09
+date: 2024-10-10
 categories: Data Science
 ---
 
