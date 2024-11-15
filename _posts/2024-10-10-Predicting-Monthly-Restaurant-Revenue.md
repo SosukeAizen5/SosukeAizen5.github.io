@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Predicting Monthly Revenue in the Restaurant Industry Presentation"
+title: "Predicting Monthly Restaurant Revenue"
 date: 2024-10-10
 categories: Data Science
 ---
