@@ -5,7 +5,9 @@ date: 2024-10-09
 categories: Data Science
 ---
 
-This study utilizes predictive analytics to explore food data to predict nutrition density based on multiple food-related statistics. Each portion of the study can be found below.
+This study utilizes predictive analytics to explore food data to predict nutrition density based on multiple food-related statistics. The results are applicable to dieticians and nutritionists globally for dietary recommendations and the identification of nutrient-dense foods.
+
+Each portion of the study can be found below.
 
 ### Datasets
 The datasets used in the research contain almost 2400 food ingredients with statistics like Fats, Carbohydrates, Proteins, vitamins, minerals, and others. The five datasets are linked below.
