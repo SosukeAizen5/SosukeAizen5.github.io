@@ -5,7 +5,9 @@ date: 2024-11-15
 categories: Data Science
 ---
 
-This study utilizes predictive analytics to understand and identify underlying stock price data trends from the Walt Disney Company, use that data to train predictive models to viably predict future closing stock price, and apply the model to unseen data to test its predictive accuracy. Each portion of the study can be found below.
+This study utilizes predictive analytics to understand and identify underlying stock price data trends from the Walt Disney Company, use that data to train predictive models to viably predict future closing stock price, and apply the model to unseen data to test its predictive accuracy. 
+
+Each portion of the study can be found below.
 
 ### Dataset
 The dataset used in the research contains over 60 years of stock price data with open, close, high, and low prices with volume of shares traded. The dataset is linked below.
