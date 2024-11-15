@@ -21,4 +21,4 @@ The Python code used for the analysis is available [here](https://github.com/Sos
 The finalized report of the study, its findings and implications, and the real-world usage can be found [here](https://github.com/SosukeAizen5/Portfolio/blob/main/DSC%20680%20Applied%20Data%20Science/Predicting%20Disneyland%20Review%20Sentiment%20Paper.pdf).
 
 ### Audio/Visual Presentation
-A detailed presentation concerning the study can be viewed [here](https://github.com/SosukeAizen5/Portfolio/blob/main/DSC%20680%20Applied%20Data%20Science/Predicting%20Disney%20Stock%20Price%20Presentation.mp4).
+A detailed presentation concerning the study can be viewed [here](https://github.com/SosukeAizen5/Portfolio/blob/main/DSC%20680%20Applied%20Data%20Science/Predicting%20Disneyland%20Review%20Sentiment%20Presentation.mp4).
